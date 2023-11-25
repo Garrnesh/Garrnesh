@@ -14,7 +14,7 @@
 
 
 
-### Hi there! My name is Ganesh and I am a Computer student from Singapore 👋
+### Hi there! My name is Ganesh and I am a Computing student from Singapore 👋
 
 <!--
 **Garrnesh/Garrnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
