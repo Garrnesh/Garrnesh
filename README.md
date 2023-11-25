@@ -11,9 +11,9 @@
   </a>
 </div>
 
-<h1>
+<h2>
   Hi there! My name is Ganesh and I am a Computing student from Singapore 👋
-</h1>
+</h2>
 
 <!--
 **Garrnesh/Garrnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
