@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h2>
+<h2 align="center">
   Hi there! My name is Ganesh and I am a Computing student from Singapore 👋
 </h2>
 
