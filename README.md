@@ -15,6 +15,11 @@
   Hi there! I'm Ganesh from Singapore 👋
 </h2>
 
+---
+
+👨🏽‍💻 About me:
+
+
 <!--
 **Garrnesh/Garrnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
