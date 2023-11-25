@@ -12,7 +12,7 @@
 </div>
 
 <h2 align="center">
-  Hi there! My name is Ganesh and I am a Computing student from Singapore 👋
+  Hi there! I'm Ganesh from Singapore 👋
 </h2>
 
 <!--
