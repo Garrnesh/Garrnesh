@@ -61,7 +61,9 @@
 </div>
 ---
 ### 🔥 My Stats:
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garrnesh" />
+</div>
 
 
 
