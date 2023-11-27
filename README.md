@@ -18,8 +18,8 @@
 ---
 
 ### 👨🏽‍💻 About me :
-- 🏫 NTU Renaissance Engineering Programme student, specialising in Computer Engineering
-- 🌍 Year 3 Exchange Student in Imperial College London
+- 🏫 NTU Renaissance Engineering Programme, specialising in Computer Engineering
+- 🌍 Year 3 Exchange Student at Imperial College London
 - 💡 My Interest includes Software Engineering, Machine Learning & Artificial Intelligence, and Data Analytics
 ---
 ### 🛠️ Technical Stack:
