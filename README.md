@@ -64,7 +64,7 @@
 
 ### 🔥 My Stats:
 <p align="center">
-  <img href="http://github-readme-streak-stats.herokuapp.com?user=Garrnesh&theme=dark&background=000000" />
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=Garrnesh&theme=dark&background=000000"></a>
   <img href="https://github-readme-stats.vercel.app/api/top-langs/?username=Garrnesh&layout=compact&theme=vision-friendly-dark" />
 </p>
 
