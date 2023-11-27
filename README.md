@@ -24,14 +24,12 @@
 ---
 ### 🛠️ Technical Stack:
 <div id="stack" align="center">
-  <h2>
+  <h3>
     Software Development:
-  </h2>
-  <p align="center">
+  </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
-</p>
   
 </div>
 <!--
