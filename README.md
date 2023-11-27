@@ -30,6 +30,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,js,nodejs,express,flask" />
   </a>
+
   
   <h3>
     Databases:
@@ -37,6 +38,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
   </a>
+
   
   <h3>
     Data Science & Artificial Intelligence:
@@ -44,6 +46,7 @@
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch" />
   </a>
+
   
   <h3>
     DevOps:
