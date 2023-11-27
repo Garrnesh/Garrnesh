@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garrnesh" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garrnesh&theme=dark&background=000000"" alt="Top Languages" />
   </a>
 </p>
 
