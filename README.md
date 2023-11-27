@@ -64,8 +64,15 @@
 
 ### 🔥 My Stats:
 <p align="center">
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=Garrnesh&theme=dark&background=000000"></a>
-  <img href="https://github-readme-stats.vercel.app/api/top-langs/?username=Garrnesh&layout=compact&theme=vision-friendly-dark" />
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Garrnesh&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garrnesh" alt="Top Languages" />
+  </a>
 </p>
 
 
