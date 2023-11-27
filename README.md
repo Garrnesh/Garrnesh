@@ -22,8 +22,18 @@
 - 🌍 Year 3 Exchange Student in Imperial College London
 - 💡 Interest includes Software Engineering, Machine Learning & Artificial Intelligence, and Data Analytics
 ---
-
-
+### 🛠️ Technical Stack:
+<div id="stack" align="center">
+  <h2>
+    Software Development:
+  </h2>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+  
+</div>
 <!--
 **Garrnesh/Garrnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
