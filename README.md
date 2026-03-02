@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/s-jivaganesh-022319246/">
+  <a href="https://www.linkedin.com/in/s-jivaganesh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:jivaganeshs@gmail.com">
