@@ -18,8 +18,8 @@
 ---
 
 ### 👨🏽‍💻 About me :
-- 🏫 NTU Renaissance Engineering Programme, specialising in Computer Engineering
-- 🌍 Recent Graduate
+- 🏫 Recent Graduate NTU Renaissance Engineering Programme, specialising in Computer Engineering
+- 🌍 Exchange at Imperial College London
 - 💡 My Interest includes Machine Learning & Artificial Intelligence, Data Analytics, and Software Engineering
 ---
 ### 🛠️ Technical Stack:
